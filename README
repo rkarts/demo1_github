@@ -1,2 +1,5 @@
-This is First
-This is 2nd
+#My first Git repo is now online
+This is a first line of text.
+This is a 2nd line of text.
+
+**MArkdown** _cool!_
